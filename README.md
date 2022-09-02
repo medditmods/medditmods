@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @medditmods
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+medditmods/medditmods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+Meddit mods collaboration
+https://gist.github.com probably most helpful. I'll put the meta thread and AMA templates there...
+Please use 2FA
+
+Hope this helps
